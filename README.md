@@ -1,2 +1,2 @@
 # PythonTempConversion
-Temperature conversion program.
+Temperature conversion program. Saves results on text file.

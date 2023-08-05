@@ -14,7 +14,7 @@ while (userLetter != "f" or "c"):
      fah = (1.8*cel)+32
     elif userLetter == 'yes':
      print("Thanks for using the Temperature Conversion Application")
-     exit()
+     break
     else :
      userLetter = input("You did not enter c or f. Try again.")
     print(title)
